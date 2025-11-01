@@ -1,0 +1,32 @@
+[
+  {
+    "crm": 123,
+    "nome": "João da Silva",
+    "email": "joao.silva@email.com",
+    "status": "ativo"
+  },
+  {
+    "crm": 234,
+    "nome": "Maria Oliveira",
+    "email": "maria.o@email.com",
+    "status": "ativo"
+  },
+  {
+    "crm": 345,
+    "nome": "Carlos Pereira",
+    "email": "carlos.p@email.com",
+    "status": "inativo"
+  },
+  {
+    "crm": 456,
+    "nome": "Gabriel Santos",
+    "email": "gabriel.s@email.com",
+    "status": "ativo"
+  },
+  {
+    "crm": 567,
+    "nome": "Jonas Silveira",
+    "email": "jonas.s@email.com",
+    "status": "inativo"
+  }
+]
