@@ -2,7 +2,7 @@
   {
     "crm": 123,
     "nome": "João da Silva",
-    "email": "joao.silva@email.com",
+    "email": "joao.s@email.com",
     "status": "ativo"
   },
   {
@@ -29,4 +29,5 @@
     "email": "jonas.s@email.com",
     "status": "inativo"
   }
+
 ]
